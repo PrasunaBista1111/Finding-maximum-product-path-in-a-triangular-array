@@ -1,10 +1,3 @@
-#Group Members:
-'''
-Name :                    Email:
-1.Arsha Jung Thapa       thapa.61@wright.edu
-2.Elham Ghiasi           ghiasi.2@wright.edu
-2.Prasuna Bista          bista.10@wright.edu
-'''
 
 # PseudoCode
 '''
